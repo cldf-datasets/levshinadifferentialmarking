@@ -1,0 +1,36 @@
+Spreadsheet	Column	Meaning
+Markers	Marker_ID	ID of the marker (separate for every allomorph)
+Markers	Language	Name of the language
+Markers	Argument	A (role that expresses the prototypical Agent) or P (grammatical role that expresses the prototypical Patient)
+Markers	Form	Form of the marker 
+Markers	Type	Type of marker (suffix, prefix, enclitic, proclitic, preposition or adposition)
+Markers	Condition	Conditions when the marker can be used potentially (phonology, nominal number, etc.)
+Usages	Marker_ID	ID of the marker
+Usages	TAM_Conditions	IMPER = imperative; NONFIN = embedded non-finite clause; MAIN = main clause; SUB = subordinate clause; CON = conditional; FUT = future tense; CONT = continuative aspect; EPISTEMIC = epistemic modality; DEONTIC = deontic modality; SEQ = sequential clause
+Usages	WordOrder_Conditions	SOV, SVO, etc.; LR_DISLOCATION = left/right dislocation;
+Usages	Other_Conditions	Other conditions that influence the (dis)use of markers, e.g. fast speech; SUBJ = grammatical subject; OBJ = grammatical object; TYPICAL_SCENARIO = a typical configuration of A, P and verb, e.g. a dog bites a man; NO_TYPICAL_SCENARIO =lack of a typical configuration; OTHER_HIGHER = the other argument is higher on the prominence scales; OTHER_LOWER = the other argument is lower on the prominence scales.  See other abbreviations in the column Host.
+Usages	Host	ALL = all nominals; PRON = pronoun; DEM = demonstrative; PROPER = proper noun; KIN = kinship term; HUMAN = human noun; SPEC = specific; ANIMAL = animal noun; NOUN = common noun; DEF = definite; INDEF = indefinite; 1P = 1st person; 2P = 2nd person; 3P = 3rd person; PROX = proximate (e.g. 3rd person); EMPH = emphatic; NONEMPH: non-emphatic; LIGHT_VERB = light verb as the head; FOCUS = focus; NONFOCUS = not focus; BABY  = baby; NONBABY = not baby; ADJACENT = adjacent to the verb; NONADJACENT = not adjacent to the verb; LIGHT = syntactically and/or morphologically 'light'; HEAVY = syntactically and/or morphologically 'heavy'; ANIMATE = animate; INANIMATE = inanimate; ANTHROPOMORPH = anthropomorphic (human-like, e.g. animals in a story or mythological beings); PROMINENT = prominent in the narrative; AFFECTED = affected by the action expressed by the verb; DAYS_WEEK = days of the week; INSTITUTION = institution;  POSS = possessive; REFL = reflexive; +REL = modified by relative clause; -REL = not modified by relative clause, PARTITIVE = partitive constructions (e.g. 'two of the girls'); PREDICTABLE_VERB = predictable from the verb 
+Usages	Marking_Probability	>90% = always or nearly always marked; >50% = more frequently marked than unmarked; <50% = less frequently marked than unmarked; 50% = optionally marked, or no precise information about any biases; ">" = more frequently marked than in other situations, "<" = less frequently marked than in other situations
+Usages	Example_ID	ID of the example in the Examples spreadsheet
+Languages	Language	Name of the language
+Languages	Marking_Type	None; differential; stable overt
+Languages	Local_or_Global	Only for differential and depending on the properties of the argument(s): local = the use or omission of the marker depends only on the properties of the argument itself; global = the use of the marker also or solely depends on the properties of the other argument.
+Languages	Marking_Contrast	Only for differential: zero_nonzero = when differential marking in a given language is privative, i.e. there is zero expression vs. non-zero (audible) expression; marker_length = when the differential marking pertains to different markers rather than zero expression vs. non-zero expression; stem_length = when the case forms differ in stem length (e.g. as in Ik).
+Languages	Split_or_Fluid	Only for differential: Whether marking is split, fluid, split-fluid. NotApplicable if there is no marking (none in Marking_Type). Marking is split when Marking_Probability is >90%/<10%, fluid when Marking_Probability is >50%, 50%, <50%, <, or >, and split-fluid when both split and fluid marking occurs in a given language.
+Languages	TAM_DM	Does marking depend on TAM_Conditions? Values: yes; no.
+Languages	WO_DM	Does marking depend on WordOrder_Conditions? Values: yes; no.
+Languages	Other_DM	Does marking depend on Other_Conditions? Values: yes; no.
+Languages	Animacy_Scale	Whether marking in a language fits or violates the animacy hierarchy (Human > Animal > Inanimate) or not. Values: fit = fits; viol = violates; mixed (some parts of the scale are supported and some are violated); none (the scale is not relevant for DM). See Notes 1 and 2.
+Languages	Pronom_Scale	Whether marking in a language violates the pronominality hierarchy (Pron > Proper > Common Nouns) or not. Values: fit = fits; viol = violates; mixed (some parts of the scale are supported and some are violated); none (the scale is not relevant for DM). See Notes 1 and 2.
+Languages	Def_Scale	Whether marking in a language violates the definiteness hierarchy (Definite > Specific > Non-Specific) or not. Values: fit = fits; viol = violates; mixed (some parts of the scale are supported and some are violated); none (the scale is not relevant for DM). See Notes 1 and 2.
+Languages	Person_Scale	Whether marking in a language violates the person hierarchy (Speech-act participants (1 + 2) > 3) or not. Values: fit = fits; viol = violates; mixed (some parts of the scale are supported and some are violated); none (the scale is not relevant for DM). See Notes 1 and 2.
+Examples	Example_ID	ID of the example
+Examples	SourceText	Source text
+Examples	Gloss	Gloss
+Examples	Translation	Translation
+Examples	Glossing_Comments	Meaning of some abbreviations, if there is a chance they are unclear (optional)
+Examples	Reference_ID	ID of the reference in the bibliography file
+Example	Page	Page information
+#Notes		
+Note 1: Fitting a scale means that the shorter form(s) is used with high-prominence P and/or low-prominence A, while shorter form is used with low-prominence P and/or high-prominence A. It includes zero-nonzero marking, different marker lengths and different stem lengths (e.g. in Ik). Both global and local marking are considered.		
+Note 2: if there is a split in one category, such that the members of this category are either marked or unmarked, and the other categories are not split, this is still evaluated as fit or viol. See ybh_01 (split inside PRON, no split inside PROPER and NOUN).		

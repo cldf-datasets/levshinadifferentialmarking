@@ -1,0 +1,84 @@
+Marker_ID	Language	Argument	Form	Type	Condition
+jup_01	Hup	P	ăn	Suffix	SG
+jup_02	Hup	P	n'ăn	Suffix	PL
+she_01	Sheko	P	əra	Suffix	After consonants
+she_02	Sheko	P	ra	Suffix	After vowels
+she_03	Sheko	P	a	Suffix	Possible after word-final s
+she_04	Sheko	P	ana	Suffix	Regional; After consonants
+she_05	Sheko	P	ara	Suffix	After consonants
+kor_01	Korean	A	ga	Enclitic	Agent&After vowels
+kor_02	Korean	A	i	Enclitic	Agent&After consonants
+kor_03	Korean	A	neun	Enclitic	Topic&After vowels
+kor_04	Korean	A	eun	Enclitic	Topic&After consonants
+kor_05	Korean	P	leul	Enclitic	After vowels
+kor_06	Korean	P	eul	Enclitic	After consonants
+rap_01	Rapa Nui	A	e	Preposition	All
+rap_02	Rapa Nui	P	i	Preposition	Mostly non-experiential verbs
+rap_03	Rapa Nui	P	ki	Preposition	Mostly experiential verbs
+rmt_01	Domari	P	a	Suffix	Noun declension classes 5+6&Singular
+rmt_02	Domari	P	as	Suffix	Noun declension classes 1+2+3&Singular
+rmt_03	Domari	P	an	Suffix	PL
+rmt_04	Domari	P	ē	Suffix	Noun declension classes 7+8&SG
+rmt_05	Domari	P	ī	Suffix	Noun declension classes 4+9&SG
+komnzo_01	Komnzo	A	é	Enclitic	PL&ANIMATE&After consonants
+komnzo_02	Komnzo	A	yé	Enclitic	PL&ANIMATE&After vowels
+komnzo_03	Komnzo	A	f	Enclitic	SG&ANIMATE;INANIMATE
+komnzo_04	Komnzo	P	é	Enclitic	PL&ANIMATE&After consonants
+komnzo_05	Komnzo	P	yé	Enclitic	PL&ANIMATE&After vowels
+ude_01	Udihe	P	wA	Suffix	Class I declensions
+ude_02	Udihe	P	mA	Suffix	Class II declensions
+opm_01	Oksapmin	P	nuŋ	Enclitic	Idiolectal variant
+opm_02	Oksapmin	P	nəŋ	Enclitic	Idiolectal variant
+opm_03	Oksapmin	P	nənəŋ	Enclitic	Idiolectal variant
+opm_04	Oksapmin	P	nunuŋ	Enclitic	Idiolectal variant
+opm_05	Oksapmin	P	noŋ	Enclitic	Idiolectal variant
+opm_06	Oksapmin	P	nonoŋ	Enclitic	Idiolectal variant
+ybh_01	Yakkha	A	ŋa	Enclitic	All
+css_01	Mutsun	P	e	Suffix	After sonorants; After sibilants
+css_02	Mutsun	P	se	Suffix	After obstruents; After non-sibilants
+css_03	Mutsun	P	s	Suffix	After obstruents; After non-sibilants
+agr_01	Aguaruna	P	na	Suffix	All
+ikx_01	Ik	A	a	Suffix; Subtracts final vowels	Within a string of speech
+ikx_02	Ik	A	ᵃ	Suffix	At the end of a string of speech
+ikx_03	Ik	P	a	Suffix; Does not subtract final vowels	Within a string of speech
+ikx_04	Ik	P	kᵃ	Suffix	At the end of a string of speech
+ikx_05	Ik	A	a	Suffix; Does not subtract final vowels	Within a string of speech
+ikx_06	Ik	A	kᵃ	Suffix	At the end of a string of speech
+ikx_07	Ik	P	a	Suffix; Subtracts final vowels	Within a string of speech
+ikx_08	Ik	P	ᵃ	Suffix	At the end of a string of speech
+qub_01	Quechua (Huallaga)	P	ta	Suffix	All
+bsk_01	Burushaski (Eastern)	A	e	Suffix	All
+dzg_01	Tubu/Dazaga	A	ì	Enclitic	After [+ATR] stems
+dzg_02	Tubu/Dazaga	A	ɪ	Enclitic	After [−ATR] stems
+dzg_03	Tubu/Dazaga	P	gà	Enclitic	Idiolectal variant
+dzg_04	Tubu/Dazaga	P	ŋà	Enclitic	Idiolectal variant
+yuk_01	Yuki	P	ą	Enclitic	Predominant variant
+yuk_02	Yuki	P	a	Enclitic	Idiolectal variant
+khv_01	Khwarshi	A	i	Suffix	All
+kxc_03	Konso	P	high tone	Tone	All
+kxc_02	Konso	A	low tone	Tone	All
+kxc_01	Konso	A	ʔ	Suffix	All
+sci_01	Sri Lanka Malay	A	dering	Postposition	All
+sci_02	Sri Lanka Malay	P	yang	Postposition	Accusative; with "general-purpose" verbs, e.g. take, put.
+sci_03	Sri Lanka Malay	P	nang	Postposition	Dative; with verbs that affect humans or other animate entities, e.g. hit, stab, shoot
+mem_01	Mangarla	A	ngku	Suffix	SG&Less than three syllables&After vowels
+mem_02	Mangarla	A	tu	Suffix	SG&After [+apical, −rhotic] consonants
+mem_03	Mangarla	A	ju	Suffix	SG&After [+rhotic] consonants; Singular&After [−apical] consonants; SG&Three or more syllables&After vowels
+mem_04	Mangarla	A	yaru	Suffix	PL
+mem_05	Mangarla	A	aru	Suffix	Possible after PL&Morphemes that end in a [+high] vowel and when this vowel is deleted by the optional vowel + glide segment deletion rule; Possible after PL&Morphemes that end in a vowel and when this vowel is deleted by the vowel reduction rule
+grj_01	Gurindji Kriol	A	ngku	Suffix	After vowels
+grj_02	Gurindji Kriol	A	tu	Suffix	After consonants
+cbv_01	Kakua	P	diʔ	Enclitic	All
+heb_01	Hebrew	P	et	Preposition	All
+pes_01	Persian	P	râ	Suffix	All
+esu_01	Yup'ik	A	m	Suffix	SG&Unpossessed nominal&Free NP
+esu_02	Yup'ik	A	t	Suffix	PL&Unpossessed nominal&Free NP
+esu_03	Yup'ik	A	ɣ	Suffix	Dual&Unpossessed nominal&Free NP
+esu_04	Yup'ik	P	t	Suffix	PL&Unpossessed nominal&Free NP
+esu_05	Yup'ik	P	ɣ	Suffix	Dual&Unpossessed nominal&Free NP
+esu_06	Yup'ik	A	mi	Suffix	NOUN with 1st or 2nd person referents
+esu_07	Yup'ik	P	mi	Suffix	NOUN with 1st or 2nd person referents
+dhi_01	Dhimal	P	heŋ	Enclitic	All
+dhi_02	Dhimal	P	seŋ	Enclitic	Possible with PRON&SG
+qiang_01	Qiang	A	wu	Postposition	All
+qiang_02	Qiang	P	ta	Posposition	All

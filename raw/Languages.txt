@@ -1,0 +1,55 @@
+Language	Argument	Marking_Type	Marking_Contrast	Local_or_global	Split_or_Fluid	TAM_DM	WO_DM	Other_DM	Animacy_Scale	Pronom_Scale	Def_Scale	Person_Scale
+Hup	A	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Hup	P	differential	zero_nonzero	local	split-fluid	no	no	no	fit	fit	fit	none
+Sheko	A	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Sheko	P	differential	zero_nonzero	local	split-fluid	no	yes	no	none	none	fit	none
+Khwarshi	A	differential	zero_nonzero	local	split	no	no	no	none	fit	none	none
+Khwarshi	P	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Domari	A	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Domari	P	differential	zero_nonzero	local	split	no	no	no	NotApplicable	fit	fit	none
+Mutsun	A	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Mutsun	P	differential	zero_nonzero	local	split	yes	no	no	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Yakkha	A	differential	zero_nonzero	local	split	no	no	no	none	fit	none	fit
+Yakkha	P	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Mangarla	A	differential	zero_nonzero	local	fluid	no	no	no	none	none	none	none
+Mangarla	P	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Korean	A	differential	zero_nonzero	local	split-fluid	no	no	no	fit	fit	none	fit
+Korean	P	differential	zero_nonzero	local	split-fluid	no	no	no	fit	fit	fit	fit
+Udihe	A	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Udihe	P	differential	zero_nonzero	local	split-fluid	yes	no	yes	none	none	fit	none
+Tubu/Dazaga	A	differential	zero_nonzero	local	split-fluid	no	yes	no	fit	none	none	none
+Tubu/Dazaga	P	differential	zero_nonzero	local	split	no	no	no	none	fit	none	none
+Yuki	A	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Yuki	P	differential	zero_nonzero	local	split-fluid	no	no	no	fit	none	fit	none
+Quechua (Huallaga)	A	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Quechua (Huallaga)	P	differential	zero_nonzero	local	split-fluid	no	no	yes	none	none	none	none
+Burushaski (Eastern)	A	differential	zero_nonzero	local	split-fluid	yes	no	no	none	fit	none	fit
+Burushaski (Eastern)	P	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Aguaruna	A	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Aguaruna	P	differential	zero_nonzero	global	split	no	no	yes	none	fit	none	fit
+Oksapmin	A	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Oksapmin	P	differential	zero_nonzero	local	fluid	no	no	no	fit	none	fit	none
+Rapa Nui	A	differential	zero_nonzero	NotApplicable	split-fluid	no	yes	yes	none	none	none	none
+Rapa Nui	P	differential	zero_nonzero	local; global	split-fluid	yes	yes	no	none	fit	none	none
+Komnzo 	A	stable overt	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Komnzo 	P	differential	zero_nonzero	local	split-fluid	no	no	no	fit	none	none	none
+Ik	A	differential	stem_length	NotApplicable	split	NotApplicable	NotApplicable	yes	none	none	none	none
+Ik	P	differential	stem_length	global	split	NotApplicable	NotApplicable	yes	none	none	none	fit
+Konso	A	differential	zero_nonzero	local	split	no	no	yes	none	viol	none	none
+Konso	P	differential	zero_nonzero	local	split	no	no	yes	none	none	none	none
+Sri Lanka Malay	A	differential	zero_nonzero	local	split	no	no	no	none	none	none	none
+Sri Lanka Malay	P	differential	zero_nonzero	local	fluid	no	no	no	fit	none	fit	none
+Gurindji Kriol	A	differential	zero_nonzero	local; global	split-fluid	yes	yes	no	fit	none	none	none
+Gurindji Kriol	P	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Kakua	A	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Kakua	P	differential	zero_nonzero	global	split-fluid	no	yes	no	fit	fit	fit	none
+Hebrew	A	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Hebrew	P	differential	zero_nonzero	local	split	no	no	no	none	fit	fit	none
+Persian	A	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Persian	P	differential	zero_nonzero	local	split-fluid	no	no	no	fit	fit	fit	none
+Yup'ik	A	differential	marker_length	local	split	no	no	no	none	none	none	fit
+Yup'ik	P	differential	zero_nonzero; marker_length	local	split	no	no	no	none	none	none	fit
+Dhimal	A	none	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable	NotApplicable
+Dhimal	P	differential	zero_nonzero	local; global	fluid	no	no	yes	fit	none	fit	none
+Qiang	A	differential	zero_nonzero	global	fluid; split	no	yes	yes	fit	none	none	fit
+Qiang	P	differential	zero_nonzero	local; global	NotApplicable	NotApplicable	NotApplicable	NotApplicable	fit	none	none	none

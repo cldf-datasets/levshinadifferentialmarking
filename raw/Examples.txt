@@ -1,0 +1,97 @@
+Example_ID	SourceText	Gloss	Translation	Glossing_Comments	Reference_ID	Page
+jup01	yub=ʔãy-ǎn, děh hɔn-yóʔ... tɨh d'oʔ-macá-b'ay-áh	cipó.vine=woman-OBJ water vomit-SEQ 3SG take-gain.consciousness-AGAIN-DECL	Having (ritually) vomited water, he created cipó vine-woman.	SEQ: sequential; AGAIN : repetitive aspect/topic-shift	epps_grammar_2008	173
+jup02	ʔãh cug'æt=n'ǎn pũhũt-d'əh-hi-yɨʔ-ɨy	1SG leaf/paper=PL.OBJ blow-send-descend-TEL-DYNM	I blew the papers down.	TEL: telic, contrastive emphasis; DYNM: dynamic	epps_grammar_2008	178
+jup03	tɨh pəd-hi-y'ǽt-yɨʔ-póʔ-ay-áh, tɨh=tæ̃hʔíp=pog-ǎn mɔhɔy=wəd-ǎn	3SG roll-descend-lay-TEL-EMPH1-INCH-DECL 3SG=child.father=EMPH1-OBJ deer=RESP-OBJ	She rolled him out onto the ground, her husband, the Deer.	TEL: telic, EMPH1: emphasis 1; INCH: inchoative; RESP: respect marker	epps_grammar_2008	176
+jup04	hɔhɔh=mah tɨh ʔey-yɔhɔy-ɔh	frog=REP 3SG call-search-DECL	He was calling and searching for the frog.	REP: reportive evidential	epps_grammar_2008	175
+jup05	wãʔ tæ̃hʔín túk-úy	vulture child.mother want-DYNM	Vulture wants a wife (i.e., he wants to get married).	DYNM: dynamic	epps_grammar_2008	174
+she01	dēygn̄ yí-fyááyń-əra kòb-tə	girl.F.DEF 3FS.POSS-frog.F.DEF-ACC take-SS	The girl took the frog and...	3FS: third person feminine singular subject clitic; SS: same subject	hellenthal_grammar_2010	258
+she02	kútʃì-ra há=buutʂ'u-k-ə	chicken-ACC 3MS=pluck-REAL-STI	He plucked a chicken.	3MS: third person masculine singular subject clitic; REAL: realis; STI: indirect stance marker	hellenthal_grammar_2010	259
+she03	há=ȿóóȿ-ǹ-ȿ-ara yááb-m̀-s dufu-t=á wuȿ-ǹ	3MS=snake-DEF-M-ACC man-DEF-M hit-SS=3MS kill-DS	The man hit the snake and killed it; ...	3MS: third person masculine singular subject clitic; SS: same subject; DS: different subject	hellenthal_grammar_2010	259
+ude01	mafa imo:-ni bua tue-ni diga-mi ina-ini	bear fat-3SG place winter-3SG eat-INF enough-3SG	Bear fat is enough to eat in the winter time.	none	nikolaeva_grammar_2001	122
+ude02	zekpu-ne-i zeu	eat-DEST-IMP.2SG food	Come to eat some food.	DEST: destinative case	nikolaeva_grammar_2001	122
+ude03	nada au teti-gi-e-nie joxoso-mo au-wa	seven cap dress-REP-PAST-3SG kettle-ADJ cap-ACC	He put on seven caps, caps made of kettles.	REP: repetitive; ADJ: adjectival derivational suffix	nikolaeva_grammar_2001	120
+ude04	in'ei ikteme-ne:-ni pauza	dog bite-DIS-PAST-3SG roe	The dogs bit the roe.	DIS: disjunction	nikolaeva_grammar_2001	123
+ude05	we:-tigi ŋene-ze-fi seutigi diga-na-za-fi	forest-LAT go-SUBJ-1PL.IN nut eat-DEST-SUBJ-1PL.IN	Let us go to the forest and eat some nuts.	LAT: lative case; IN: inclusive; DEST: destinative case	nikolaeva_grammar_2001	121
+ude06	nua-ni (men-e) sita-i ise:-ni	he-3SG (ref-0) son-REF see.PAST-3SG	Heᵢ saw hisᵢ son.	REF: reflexive	nikolaeva_grammar_2001	775
+css01	sukmu-ka hemečʔa suku·me	is smoking I one cigarette [objective]	I'm smoking a cigarette.	none	ocrand_mutsun_1977	150
+kor01	minsu-neun sagwa*(-leul) sa-ss-da	minsu-TOP apple-LEUL buy-PST-DEC	Minsu (, he) bought APPLES.	DEC: declarative	kwon_differential_2008	263
+kor02	(...) ilekhey nul sayngkak ha-ku iss-ta-ku	such always thought do-LK exist	I always think so.	LK: linker	lee_quantitative_2009	43
+kor03	ipen hanki-nun sensayng-nim kwamok-ul ses kaluchi-si-e	this semester-TOP teacher course-ACC three teach	The teacher teaches three courses this semester.	none	lee_quantitative_2009	49
+kor04	kun kenmwul-i cenlyek tel sse-ya hay	big building-NOM energy less consume must	Big building should consume less energy. 	none	lee_quantitative_2009	49
+kor05	minsu-neun sagwa(-leul) meog-goiss-da	minsu-TOP apple(-LEUL) eat-PROG-DEC	Minsu is eating apples.	DEC: declarative	kwon_differential_2008	259
+kor06	yeongmi-ga uli-leul moim-e chodae ha-ess-eo	yeongmi-GA uli-LEUL meeting-LOC invitation do-PST-DEC^INF	Yeongmi invited US to the meeting.	DEC^INF: declarative informal	kwon_differential_2008	263
+komnzo01	rusa räkumg-si=r zane ä\fiyok/wrth (.) srak=é	deer attract-NMLZ=PURP DEM:PROX 2|3PL:SBJ>2|3PL:OBJ:NPST:IPFV/make (.) boy=ERG.NSG	They make this one for attracting deer ... the boys (make it).	NPST: non-past; NSG: non-singular	dohler_grammar_2018	141
+komnzo02	nabi tuti=n fä fof zu\mirwa/nzrm füsfüs=f	bamboo branch=LOC DIST EMPH 2|3SG:SBJ>3SG.FEM:OBJ:PST:DUR/swing wind=ERG	The wind was swinging (the lamp) on the bamboo branch.	EMPH: emphatic; FEM: feminine	dohler_grammar_2018	141
+rap01	he tu'u he haka uru i te 'uha e Ŋumi ki roto ki te hare ki a Oti	NTR arrive NTR CAUS enter ACC ART chicken AG Ngumi to inside to ART house to PROP Oti	Ngumi arrived and put the chicken in the house for Oti.	NTR: neutral aspect; AG: agentive; PROP: proper article	kieviet_grammar_2017	382
+rap02	he hakarere e te hānau momoko	NTR leave AG ART race slender	The 'slender race' left them.	NTR: neutral aspect; AG: agentive	kieviet_grammar_2017	383
+rap03	he hakaroŋo mai tū taŋata era i tū vehi era	NTR listen hither DEM man DIST ACC DEM song DIST	The man listened to that song.	NTR: neutral aspect	kieviet_grammar_2017	379
+rap04	he hakaroŋo atu e tū taŋata era i tū vehi era	NTR listen away AG DEM man DIST ACC DEM song DIST	The man listened to that song.	NTR: neutral aspect; AG: agentive	kieviet_grammar_2017	379
+rap05	¡ka 'a'aru mai koe i te poki!	IMP grab hither 2SG ACC ART child	Grab the child!	none	kieviet_grammar_2017	392
+rap06	¡ka ma'u i a au ki tō'oku kāiŋa!	IMP carry ACC PROP 1SG to POSS.1SG.O homeland	Carry me to my country!	PROP: proper article; O: o-class possession	kieviet_grammar_2017	392
+rap07	e ma'u mai 'ā a mātou i te rēkaro nei mā'au	IPFV carry hither CONT PROP 1PL.EXCL ACC ART present DIST BEN.2SG.A	We bring this present for you.	CONT: continuous; PROP: proper article; BEN: benefactive; A: a-class possession	kieviet_grammar_2017	391
+rap08	he haka hū te ahi, he tunu he kakai	NTR CAUS burn ART fire NTR cook NTR PL:eat	They kindled the fire, cooked and ate	NTR: neutral aspect	kieviet_grammar_2017	395
+rap09	ka hakarē ta'a ŋā poki	IMP leave POSS.2SG.A PL child	Leave your children behind.	A: a-class possession	kieviet_grammar_2017	392
+rap10	ka haŋa ki ta'a kenu ko Papu'e	IMP love to POSS.2SG.A husband PROM Papu'e	Love your husband Papu'e.	A: a-class possession; PROM: prominence marker	kieviet_grammar_2017	392
+rap11	o te rūhia ia te hoho'a nei i to'o	of ART tourist then ART image PROX PFV take	(It was) the tourists (who) took this photo.	none	kieviet_grammar_2017	391
+rap12	paurō te pō ka pere era he rova'a te tara	every ART night CNTG play DIST NTR obtain ART money	Every night, when he played, he obtained/won money.	CNTG: contiguous; NTR: neutral aspect	kieviet_grammar_2017	393
+rap13	he rava'a e rāua i te vārua era o tū repa era	NTR obtain AG 3PL ACC ART spirit DIST of ART young_man DIST	They obtained the spirit of that young man.	NTR: neutral aspect; AG: agentive	kieviet_grammar_2017	386
+ybh01	na, jaba, na mamu=ŋa luŋkhwak pok-ma n-yas-u-n, ...	this when this girl=ERG stone raise-INF NEG-be_able-3.P[PST]-NEG	This one, when this girl could not raise the stone, ...	none	schackow_grammar_2015	130
+ikx01	toɓuo ƙaƙaam-a kʉláɓákᵃ	spear:SEQ hunter-NOM bushbuck:ACC	And the hunter speared the bushbuck.	SEQ: sequential	schrock_ik_2017	527
+ikx02	noo ŋgó-á bɛ́ɗímɛɛ bi-a, ....	when we-ACC want:1PL.EXC you-ACC	When we were looking for you, ...	none	schrock_ik_2017	528
+ikx03	Ŋƙíá tɔbɔŋ-a=na	eat:1SG mush-NOM=this	I eat this meal mush.	none	schrock_ik_2017	527
+ikx04	Ŋƙa tɔbɔŋɔ́-á=na	eat:3SG mush-ACC=this	She eats this meal mush.	none	schrock_ik_2017	527
+agr01	hutii a-ina-u-ti daka-sa-tata-hamɨ-i ami-na	1PL COP-PL:IMPFV-REL-SAP wait.for-ATT-FUT-1SG>2SG.OBJ-DECL 2SG-ACC	We will wait for you.	IMPFV: imperfective; REL: relativizer; SAP: speech act participant; ATT: attenuative Aktionsart; DECL: declarative	overall_grammar_2007	444
+agr02	nuwa hapimuku-utʃi-na ɨŋkɨ-a-u	women broom-DIM-ACC put-IMPFV-REL	The women put their brooms (in baskets).	DIM: diminutive; IMPFV: imperfective; REL: relativizer	overall_grammar_2007	215
+qub01	hwan-ta kuchi-ta rantikusha	John-OBJ pig-OBJ he:sold	He sold a/the pig to John.	none	weber_grammar_1989	11
+qub02	hwan warmi-(ta) ashi-q aywa-ra-n	John woman(-OBJ) search-SUB go-PAST-3	John went to search for a wife.	SUB: substantivizing subordinator; PAST: simple past	weber_grammar_1989	176
+bsk01	ín-e isé buš-́e i-súmal i-ic-́m-i	s/he:DIST-ERG that:X cat-GEN 3SG.X:I-tail-ABS 3SG.X:I-see-NPRS-3SG.HM	He saw the cat's tail.	NPRS: non-present; HM: HM-class nouns; X: X-class nouns	yoshioka_reference_2012	52
+bsk02	jé-Ø / jé-e i-moos-́Ø i-̇t-́č-a+bá-a-Ø	I-ABS/I-ERG 3SG.HM:I-anger-ABS 3SG.Y:II-do-IPVF-1SG+COP:H-1SG-PRS	I make him angry now.	HM: HM-class nouns; Y: Y-class nouns; II: type II; +: compounding; H: H-class nouns	yoshioka_reference_2012	248
+bsk03	qháṭ n-i-̇t i-bišá-as-ar úŋ-e bés c̣háp i-̇t+bá-a-m khól-e dáa úŋ-Ø jé-Ø ámul-ar líp a-̇t-́č+bá-a-Ø	down CP-3SG.X:II-do 3SG.X:I-throw-INF-DAT thou-ERG why shooting 3SG.Y:II-do+COP-2SG-NPRS here-ESS again thou-ABS I-ABS where-DAT throwing 1SG:II-do-IPFV+COP-2SG-PRS	On his tossing it down, "Why had you shot here, and where are you throwing me?"	CP: conjunctive participle; X: X-class nouns; II: type II; I: type I; Y: Y-class nouns; NPRS: non-present; ESS: essive	yoshioka_reference_2012	53
+dzg01	éskɨɾ tɨɾá=ɪ éɾí=ɾù ɔsɔn dɨɾɔ j-júb	soldier INDF=ERG spear=DAT side in 3.OBJ-3-pierce	(The day they killed the prophet Jesus,) a soldier pierced his side with a spear.	INDF: indefinite	walters_grammar_2015	129
+dzg02	mɛɾɛ=ɡà d-báz	3S=ACC 1-hear	I heard him/her/it.	none	walters_grammar_2015	134
+dzg03	wɨní=u(=ɡa) kútùb=u=ɾu kofu-Ø-n-ɾ	fire=DET(=ACC) book=DET=DAT fan-3.OBJ-LV-1	I fanned the fire with the book.	LV: light verb	walters_grammar_2015	135
+dzg04	kɔɡʷɔjɛ-a n...m=mà èlíí-ɪ gɔ-Ø-j	chicken-P 2S.POSS=DET sparrowhawk=ERG take-3.OBJ-3	A sparrowhawk took your chickens.	none	walters_grammar_2015	183
+yuk01	są=ˀi ˀamil-k-il=mil hulk’oˀi=ą	SAME=HSY1 overtake-PNCT-MPSV=FIN Coyote=PAT	And they caught up with Coyote.	PAT: patient; HSY1: hearsay evidential; PNCT: punctual; MPSV: mediopassive; FIN: finite	balodis_yuki_2011	143
+yuk02	mil=ą ąp liˀ-ąk=k	deer=PAT 1SG.AGT kill-SEM=DECL	I just killed deer.	AGT: agent; SEM: semelfactive	balodis_yuki_2011	252
+rmt01	lah-ed-om kaž-ak	see-PAST-1SG man-INDEF	I saw a man.	INDEF: indefinite 	matras_grammar_2012	129
+rmt02	lad-ed-om džuwr-ī	see-PAST-1SG woman-OBL.F	I saw the woman.	none	matras_grammar_2012	139
+kxc01	Kappooli-ʔ Apittu i=ʛoʄʄ-ay	Kappoole-NOM Apitto 3=pinch.SG.PF[3M]	Kappoole pinched Apitto once.	PF: perfective	orkaydo_grammar_2013	113
+kxc02	inata-siʔ ana-ʔ piʃaa i=ɗaaʃ-t-i	girl-DEF.M/F 1SG.PRO.ACC-DAT water 3=give-3F-PF	The girl gave me water.	PRO: pronoun; PF: perfective	orkaydo_grammar_2013	118
+kxc03	harreeta-a χorma ɗiit-ay	donkey-CLF[NOM] ox kick[SG]-PF[3M]	It is a donkey that kicked an ox.	PF: perfective	orkaydo_grammar_2013	115
+kxc04	harreeta-á χorma ɗiit-ay	donkey-CLF[ACC] ox kick[SG].PF[3M]	It is a donkey that an ox kicked.	PF: perfective	orkaydo_grammar_2013	115
+khv01	qˁe-y-i ɣon-o-s qˁʷelʲ xˁuxˁ-i	rabbit-EP-ERG tree-OBL-GEN1 bark nibble-PST.W	The rabbit nibbled the bark of the tree.	EP: epenthetic vowel ; GEN1: genitive 1; PST.W: past witnessed	khalilova_grammar_2009	68
+khv02	de uža-la k'ant'a l-ek'ʷ-i	1SG.ERG boy.OBL-GEN2 stick(IV).ABS IV-hit-PST.W	I hit the boy with the stick.	GEN2: genitive 2; PST.W: past witnessed; IV: gender for animate and inanimate objects	khalilova_grammar_2009	68
+sci01	derang hathu papaaya=yang asà-poothong	3PL INDEF papaw=ACC CP-cut	They cut a papaw.	INDEF: indefinite; CP: conjunctive participle	nordhoff_grammar_2009	331
+sci02	itthusubbath deram pada jaalang arà-kijja butthul ruuma pada=yang arà-picca-kang	therefore 3PL PL road NON.PAST-make correct house PL=ACC NON.PAST-broken-CAUS	Therefore, they build the street, they demolish many houses.	none	nordhoff_grammar_2009	331
+sci03	British Government=dering Malaysia Indonesia, inni nigiri pada samma peegang	British Government=ABL Malaysia Indonesia PROX country PL all catch	The British Government captured Malaysia and Indonesia, those countries.	none	nordhoff_grammar_2009	563
+sci04	ithu=kapang lorang=pe leher=yang kithang ahi-poothong	DIST=when 2PL=POSS neck=ACC 1PL IRR=cut	Then we will cut your neck.	none	nordhoff_grammar_2009	562
+gjr01	det gel-tu i=m fil-im-ap-karra ngawa pleit-ta	DET girl-ERG 3SG.S=NF fill-TRN-up-CONT water plate-LOC	The girl is filling up the plate with water.	NF: non-future; TRN: transitive; CONT: continuative	meakins_case-marking_2008	301
+gjr02	ngayu garra ged-im tu partiki-walija	1SG FUT get-TRN too nut-PAUC	I'm going to gather a big mob of nuts.	TRN: transitive; PAUC: paucal	meakins_case-marking_2008	296
+gjr03	i bin teik-im jarrpip najan kapuku-ngku-ma nganta	3SG.S NF take-TRN carry another sister-ERG-DIS DOUBT	And I reckon the other sister carried him now.	NF: non-future; TRN: transitive; DIS: discourse; DOUBT: doubt	meakins_case-marking_2008	300
+mem01	nga-y=iny wira-nya, kajana-ju Nguipan-tu	CAT-EP=3PL.O shoot-PST boy-ERG personal.name-ERG	He shot them, the policeboy Ngujpan.	CAT: catalyst particle; EP: epenthesis	Agnew_2020	74
+opm01	ul-xi-l=a jəxe patrik ox=nuŋ minxa-t pt-el patrik ox na-əpli-n-gwel	go.up-PFV-PER.YESTP=LINK then PN 3SM=O wait-SIM stay-IPFV.PER.TODP PN 3SM NEG-come-VIS.YESTP	We went up. Then, we waited for Patrick but Patrick didn't come.	PER: personal-factual evidential; YESTP: yesterday past; LINK: prosodic linker; PN: proper noun; SIM: simultaneous; TODP: today past; VIS: visual-sensory evidential	Loughnane_2009	159
+opm02	gin nox tap gwe jox minxa-t pat=a	now 1S pig small DEF wait-SIM stay.IPFV.SG(.PRS)=LINK	I'm waiting for the pig...	SIM: simultaneous; LINK: prosodic linker	Loughnane_2009	159
+cbv01	wěm=ka kǎn=diʔ wã=mâw-bip nih=na=wɨt=hĩ	1SG=ASS 3SG.M=OBJ 1SG=kill-FUT say=DECL=REP.EVID=REM.PST	I am going to kill him, he said (it is said).	ASS: assertion; REP.EVID: reported evidential; REM.PST: remote past	bolanos_grammar_2016	194
+cbv02	jegêʔ=diʔ fǐt fĩ=waj=na	clothes=OBJ 1PL 1PL=pull=DECL	We sewed clothes.	none	bolanos_grammar_2016	306
+cbv03	mâ-naʔ mɨ=diʔ ʔã=t-dah-mâw=na=ka 	tree-CL:tree.like house=OBJ 3SG.M=EVID-break-hit/kill=DECL=ASS	The tree will probably break the house (if it falls onto it).	ASS: assertion; CL: classifier; EVID: evidential	bolanos_grammar_2016	203
+heb01	ha-seret her'a 'et-ha-milxama	the-movie showed ACC-the-war	The movie showed the war.	none	aissen_differential_2003	453
+heb02	ha-seret her'a milxama	the movie showed war	The movie showed a war.	none	aissen_differential_2003	453
+pes01	yeki az ân ketâbhâ-râ xândam	INDEF of DEM books-ACC I.read	I read one of these books.	none	aissen_differential_2003	468
+pes02	çah-e tork nazd-e emperâtur-e rum qâsed-i-râ ferestâd tâ bâ u hamdast çavad	king-EZ Turk before-EZ emperor-EZ Rome messenger-INDEF-ACC he.sent so with him ally he.became	The king of the Turks sent a messenger to the Roman emperor in order to ally with him.	EZ: ezafe (clitic that occurs between a nominal head and post-head modifiers)	aissen_differential_2003	469
+pes03	çah-e tork nazd-e emperâtur-e rum payâm-i ferestâd tâ bâ u hamdast çavad	king-EZ Turk before-EZ emperor-EZ Rome message-INDEF he.sent so with him ally he.became	The king of the Turks sent a message to the Roman emperor in order to ally with him.	EZ: ezafe (clitic that occurs between a nominal head and post-head modifiers)	aissen_differential_2003	469
+esu01	mikelngu-u-t arnaq assik-aat	child-EV-REL.PL woman.ABS.SG like-IND.3PL.3SG	The children like the woman.	EV: epenthetic vowel	miyaoka_grammar_2012	732
+esu02	arna-m mikelngu-u-t assik-ai	woman-REL.SG child-EV-REL.PL like-IND.3SG.3PL	The woman likes the children.	EV: epenthetic vowel	miyaoka_grammar_2012	733
+esu03	wii arna-mi assik-i-unga mikelngur-nek	1SG woman-LOC.SG like-APS-IND.1SG child-ABM.PL	I (as) a woman like children.	APS: antipassive; ABM: ablative-modalis case	miyaoka_grammar_2012	788
+esu04	wii arna-mi assik-aatnga mikelngu-u-t	1SG woman-LOC.SG like-IND.3PL.1SG child-EV-REL.PL	The children like me (as) a woman.	EV: epenthetic vowel	miyaoka_grammar_2012	788
+dhi01	udini iskul-ko jamal-lai-heŋ gaḍi dheɁ-pa-hi.	other.day school-GEN child-PL-DAT bus be.struck-do-PST	The other day a bus struck some school children.	none	king_grammar_2008	88
+dhi02	nelai ka-seŋ ma-khujalai-su!	you I-OBJ NEG-pester-COL	Don’t pester me!	COL: collective	king_grammar_2008	88
+dhi03	paya mansar du:-hoi.	pig garlic root-PFV	A pig has started uprooting [your] garlic.	none	king_grammar_2008	89
+dhi04	khiya kiya-heŋ gil-khe.	dog chicken-DAT chase-IPFV	The dog is chasing the chicken.	none	king_grammar_2008	89
+dhi05	kabara seɁ-li hane-ka jeŋ-hi.	chital kill-INF go-NOM happen-PST	It happened that he went to kill the chital.	none	king_grammar_2008	89
+dhi06	sarihi-pa yum-teŋ ḍəkṭər-heŋ rhum-khe.	order-do sit-SEQ doctor-DAT wait-IPFV	Having sat in a line, they wait for the doctor.	SEQ: sequential	king_grammar_2008	88
+dhi07	idi bejan jamal baɁ-teŋ hasu dopha nui dhui-khe be.	this girl baby carry-SEQ who COM mouth speak-IPFV DUB	I wonder who this girl carrying a baby is talking to.	SEQ: sequential; DUB: dubitative	king_grammar_2008	88-89
+qiang01	mi-wu qɑ zǝ-dʑi.	person-AGT 1sg DIR-hit	Somebody hit me.	DIR: directional; AGT: agentive	lapolla_grammar_2003	79
+qiang02	χumtȿi khumtsi zǝ-dʑǝ-u.	χumtȿi khumtsi DIR-hit-VIS	χumtȿi hit Khumtsi.	DIR: directional; VIS: direct (usually visual) evidential marker	lapolla_grammar_2003	78
+qiang03	khumtsi χumtȿi-wu zǝ-dʑǝ-u.	khumtsi χumtȿi-AGT DIR-hit-VIS	Khumtsi was hit by χumtȿi.	AGT: agentive; DIR: directional; VIS: direct (usually visual) evidential marker	lapolla_grammar_2003	78
+qiang04	khuǝ-le: qɑ zǝ-p-ji ŋuǝ.	dog-DEF:CL 1sg DIR-buy-CSM COP	The dog was bought by me. / It was me who bought the dog.	CL: classifier; DIR: directional; CSM: change of state marker; COP: copula	lapolla_grammar_2003	80
+qiang05	the: qɑ-tɑ dʑe!	3sg 1sg-DAT hit	He is hitting me!	none	lapolla_grammar_2003	83

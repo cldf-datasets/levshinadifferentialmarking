@@ -1,0 +1,221 @@
+Marker_ID	TAM_Conditions	WordOrder_Conditions	Other_Conditions	Host	Marking_Probability	Example_ID
+jup_01	all	all	all	PRON&SG; DEM&SG; PROPER&SG; KIN&SG; HUMAN&SPEC&SG&NOUN	>90%	jup01
+jup_01	all	all	all	ANIMAL&ANTHROPOMORPH&SG&NOUN	>50%	jup03
+jup_01	all	all	all	ANIMAL&SG&NOUN	50%	jup04
+jup_01	all	all	all	SG&INANIMATE; SG&NONSPEC&INDEF&HUMAN&NOUN	<10%	jup05
+jup_02	all	all	all	ALL&PL	>90%	jup02
+she_01	all	OSV	all	ALL	>90%	NotAvailable
+she_02	all	OSV	all	ALL	>90%	NotAvailable
+she_03	all	OSV	all	ALL	>90%	NotAvailable
+she_04	all	OSV	all	ALL	>90%	NotAvailable
+she_05	all	OSV	all	ALL	>90%	she03
+she_01	all	not OSV	all	DEF&NOUN	>	she01
+she_01	all	not OSV	all	INDEF&NOUN	<	NotAvailable
+she_02	all	not OSV	all	DEF&NOUN	>	NotAvailable
+she_02	all	not OSV	all	INDEF&NOUN	<	she02
+she_03	all	not OSV	all	DEF&NOUN	>	NotAvailable
+she_03	all	not OSV	all	INDEF&NOUN	<	NotAvailable
+she_04	all	not OSV	all	DEF&NOUN	>	NotAvailable
+she_04	all	not OSV	all	INDEF&NOUN	<	NotAvailable
+she_05	all	not OSV	all	DEF&NOUN	>	NotAvailable
+she_05	all	not OSV	all	INDEF&NOUN	<	NotAvailable
+ude_01	IMPER; NONFIN&EMBEDDED	all	all	ALL	<50%	ude01; ude02
+ude_02	IMPER; NONFIN&EMBEDDED	all	all	ALL	<50%	ude01; ude02
+ude_01	NON-IMPER & FINITE	LR_DISLOCATION	all	TOPIC	>90%	ude03
+ude_02	NON-IMPER & FINITE	LR_DISLOCATION	all	TOPIC	>90%	NotAvailable
+ude_01	NON-IMPER & FINITE	all	all	SPEC&GIVEN	50%	ude04
+ude_02	NON-IMPER & FINITE	all	all	SPEC&GIVEN	50%	ude04
+ude_01	NON-IMPER & FINITE	all	all	NONSPEC; NEW	<50%	ude05
+ude_02	NON-IMPER & FINITE	all	all	NONSPEC; NEW	<50%	ude05
+ude_01	NON-IMPER & FINITE	all	all	POSS&REFL&NP	<10%	ude06
+ude_02	NON-IMPER & FINITE	all	all	POSS&REFL&NP	<10%	ude06
+ude_01	all	all	fast speech, especially after /o/, /u/, -wA, or -fA	ALL	50%	NotAvailable
+opm_01	all	all	all	HUMAN&SPEC&NONBABY; ANTHROPOMORPH&SPEC	>50%	opm01
+opm_01	all	all	all	NONHUMAN; NONSPEC; BABY	<50%	opm02
+opm_02	all	all	all	HUMAN&SPEC&NONBABY; ANTHROPOMORPH&SPEC	>50%	NotAvailable
+opm_02	all	all	all	NONHUMAN; NONSPEC; BABY	<50%	opm02
+opm_03	all	all	all	HUMAN&SPEC&NONBABY; ANTHROPOMORPH&SPEC	>50%	NotAvailable
+opm_03	all	all	all	NONHUMAN; NONSPEC; BABY	<50%	opm02
+opm_04	all	all	all	HUMAN&SPEC&NONBABY; ANTHROPOMORPH&SPEC	>50%	NotAvailable
+opm_04	all	all	all	NONHUMAN; NONSPEC; BABY	<50%	opm02
+opm_05	all	all	all	HUMAN&SPEC&NONBABY; ANTHROPOMORPH&SPEC	>50%	NotAvailable
+opm_05	all	all	all	NONHUMAN; NONSPEC; BABY	<50%	opm02
+opm_06	all	all	all	HUMAN&SPEC&NONBABY; ANTHROPOMORPH&SPEC	>50%	NotAvailable
+opm_06	all	all	all	NONHUMAN; NONSPEC; BABY	<50%	opm02
+komnzo_01	all	all	all	ANIMATE&PL&NOUN	>90%	komnzo01
+komnzo_02	all	all	all	ANIMATE&PL&NOUN	>90%	NotAvailable
+komnzo_03	all	all	all	ANIMATE&SG&NOUN; INANIMATE&NOUN	>90%	komnzo02
+komnzo_04	all	all	non-inclusory construction	ANIMATE&PL&NOUN	50%	NotAvailable
+komnzo_05	all	all	non-inclusory construction	ANIMATE&PL&NOUN	50%	NotAvailable
+komnzo_04	all	all	non-inclusory construction	INANIMATE&NOUN; ANIMATE&SG&NOUN	<10%	komnzo02
+komnzo_05	all	all	non-inclusory construction	INANIMATE&NOUN; ANIMATE&SG&NOUN	<10%	komnzo02
+komnzo_04	all	all	inclusory construction	ANIMATE&PL&NOUN	>90%	NotAvailable
+komnzo_05	all	all	inclusory construction	ANIMATE&PL&NOUN	>90%	NotAvailable
+komnzo_04	all	all	inclusory construction	INANIMATE&NOUN; ANIMATE&SG&NOUN	<10%	NotAvailable
+komnzo_05	all	all	inclusory construction	INANIMATE&NOUN; ANIMATE&SG&NOUN	<10%	NotAvailable
+rmt_01	all	all	all	DEF&NOUN&SG; PROPER&SG; NOUN&SG+REL	>90%	NotAvailable
+rmt_01	all	all	all	INDEF&NOUN&SG-REL; KIN&SG	<10%	rmt01
+rmt_02	all	all	all	DEF&NOUN&SG; PROPER&SG; NOUN&SG+REL	>90%	NotAvailable
+rmt_02	all	all	all	INDEF&NOUN&SG-REL; KIN&SG	<10%	rmt01
+rmt_03	all	all	all	DEF&NOUN&PL; PROPER&PL; NOUN&PL+REL	>90%	NotAvailable
+rmt_03	all	all	all	INDEF&NOUN&PL-REL; KIN&PL	<10%	rmt01
+rmt_04	all	all	all	DEF&NOUN&SG; PROPER&SG; NOUN&SG+REL	>90%	NotAvailable
+rmt_04	all	all	all	INDEF&NOUN&SG-REL; KIN&SG	<10%	rmt01
+rmt_05	all	all	all	DEF&NOUN&SG; PROPER&SG; NOUN&SG+REL	>90%	rmt02
+rmt_05	all	all	all	INDEF&NOUN&SG-REL; KIN&SG	<10%	rmt01
+rap_01	all	VSO	no subject shift	ALL	50%	rap03; rap04
+rap_01	all	VSO	subject shift	ALL	50%	NotAvailable
+rap_01	all	VOS; OVS	all	ALL	>90%	rap01
+rap_01	all	VS	no overt OBJ & new texts	ALL	>90%	rap02
+rap_01	all	VS	no overt OBJ & old texts	ALL	50%	NotAvailable
+rap_01	all	SOV; OSV; SVO	all	ALL	<10%	NotAvailable
+rap_02	all	OV	all	ALL	<10%	rap11
+rap_02	all	VO	overt SUBJ	ALL	>	rap07
+rap_02	all	VO	no overt SUBJ	ALL	<	NotAvailable
+rap_02	IMPER	all	no overt SUBJ	ALL	<50%	rap09
+rap_02	IMPER	all	no overt SUBJ	PRON	>	rap06
+rap_02	IMPER	all	no overt SUBJ	NOUN	<	rap09
+rap_02	IMPER	all	overt SUBJ	ALL	>90%	rap05
+rap_02	NON-IMPER	VO	verbs "obtain", "hear" and "see" & overt SUBJ	ALL	<50%	rap13
+rap_02	NON-IMPER	VO	verbs "obtain", "hear" and "see" & no overt SUBJ	ALL	<10%	rap12
+rap_02	NON-IMPER	VO	no overt SUBJ & no verbs "obtain", "hear", "see"	PREDICTABLE_VERB; NONHUMAN	<	rap08
+rap_02	NON-IMPER	VO	no overt SUBJ & no verbs "obtain", "hear", "see"	NONPREDICTABLE_VERB; HUMAN	>	NotAvailable
+rap_02	NON-IMPER	VO	overt SUBJ & no verbs "obtain", "hear", "see"	ALL	>90%	rap07
+rap_03	NON-IMPER	OV	all	ALL	<10%	NotAvailable
+rap_03	NON-IMPER	VO	overt SUBJ	ALL	>	NotAvailable
+rap_03	NON-IMPER	VO	no overt SUBJ	ALL	<	NotAvailable
+rap_03	NON-IMPER	VO	verbs "obtain", "hear" and "see" & overt SUBJ	ALL	<50%	NotAvailable
+rap_03	NON-IMPER	VO	verbs "obtain", "hear" and "see" & no overt SUBJ	ALL	<10%	NotAvailable
+rap_03	NON-IMPER	VO	no overt SUBJ & no verbs "obtain", "hear", "see"	PREDICTABLE_VERB; NONHUMAN	<	NotAvailable
+rap_03	NON-IMPER	VO	no overt SUBJ & no verbs "obtain", "hear", "see"	NONPREDICTABLE_VERB; HUMAN	>	NotAvailable
+rap_03	NON-IMPER	VO	overt SUBJ & no verbs "obtain", "hear", "see"	ALL	>90%	NotAvailable
+rap_03	IMPER	all	all	ALL	>90%	rap10
+ybh_01	all	all	all	NOUN; PROPER; 3P&PRON	>90%	ybh01
+ybh_01	all	all	all	1P&PRON; 2P&PRON	<10%	NotAvailable
+kor_05	all	all	all	FOCUS	>90%	kor01
+kor_06	all	all	all	FOCUS	>90%	NotAvailable
+kor_05	all	all	all	PRON&NONFOCUS	>50%	kor06
+kor_06	all	all	all	PRON&NONFOCUS	>50%	NotAvailable
+kor_05	all	all	all	LIGHT_VERB&NOUN&NONFOCUS; ANIMATE&NOUN&NONFOCUS; PROPER&NONFOCUS	50%	kor02
+kor_06	all	all	all	LIGHT_VERB&NOUN&NONFOCUS; ANIMATE&NOUN&NONFOCUS; PROPER&NONFOCUS	50%	kor02
+kor_05	all	all	all	INANIMATE&NOUN&NONFOCUS; NOUN&NONFOCUS; 3P&NONFOCUS	<50%	NotAvailable
+kor_06	all	all	all	INANIMATE&NOUN&NONFOCUS; NOUN&NONFOCUS; 3P&NONFOCUS	<50%	NotAvailable
+kor_05	all	all	all	ANIMATE; PRON; PROPER; DEF; HEAVY; NONADJACENT	>	kor06
+kor_06	all	all	all	INANIMATE; NOUN; INDEF; LIGHT; ADJACENT	<	kor04
+css_01	NON-IMPER	all	all	ALL	>90%	css01
+css_02	NON-IMPER	all	all	ALL	>90%	NotAvailable
+css_03	NON-IMPER	all	all	ALL	>90%	NotAvailable
+css_01	IMPER	all	all	ALL	<10%	NotAvailable
+css_02	IMPER	all	all	ALL	<10%	NotAvailable
+css_03	IMPER	all	all	ALL	<10%	NotAvailable
+agr_01	all	all	1P&PL&SUBJ; 2P&PL&SUBJ	1P&SG; 2P&SG	>90%	agr01
+agr_01	all	all	1P&PL&SUBJ; 2P&PL&SUBJ	1P&PL; 2P&PL; 3P	<10%	NotAvailable
+agr_01	all	all	2P&SG&SUBJ	1P&SG	>90%	NotAvailable
+agr_01	all	all	2P&SG&SUBJ	1P&PL; 2P&PL; 3P	<10%	NotAvailable
+agr_01	all	all	1P&SG&SUBJ	NOUN; 2P&SG; 1P&PL; 2P&PL; 3P	>90%	NotAvailable
+agr_01	all	all	3P&SUBJ	ALL	>90%	agr02
+ikx_01	MAIN; SEQ	all	all	ALL	>90%	ikx01
+ikx_02	MAIN; SEQ	all	all	ALL	>90%	NotAvailable
+ikx_07	all	all	1P&SUBJ; 2P&SUBJ	ALL	>90%	ikx03
+ikx_08	all	all	1P&SUBJ; 2P&SUBJ	ALL	>90%	NotAvailable
+ikx_03	all	all	3P&SUBJ	ALL	>90%	ikx04
+ikx_04	all	all	3P&SUBJ	ALL	>90%	NotAvailable
+ikx_03	SUB	all	all	ALL	>90%	ikx02
+ikx_04	SUB	all	all	ALL	>90%	NotAvailable
+ikx_05	SUB	all	all	ALL	>90%	ikx02
+ikx_06	SUB	all	all	ALL	>90%	NotAvailable
+qub_01	MAIN	all	all	ALL	>90%	qub01
+qub_01	SUB	all	all	ALL	50%	qub02
+bsk_01	NON-CON; NON-FUT	all	all	ALL	>90%	bsk01
+bsk_01	CON; FUT	all	all	3P&PRON; DEM; PROPER; NOUN	>90%	NotAvailable
+bsk_01	CON; FUT	all	all	2P&PRON	<	bsk03
+bsk_01	CON; FUT	all	all	1P&PRON	>	NotAvailable
+bsk_01	CON; FUT	all	all	1P&PRON&SG; 2P&PRON	50%	bsk02 
+dzg_01	all	not OSV	all	NONHUMAN; HUMAN&AGENT	50%	NotAvailable
+dzg_02	all	not OSV	all	NONHUMAN; HUMAN&AGENT	50%	dzg01
+dzg_01	all	not OSV	all	HUMAN&NONAGENT	<10%	NotAvailable
+dzg_02	all	not OSV	all	HUMAN&NONAGENT	<10%	NotAvailable
+dzg_01	all	OSV	all	ALL	>90%	NotAvailable
+dzg_02	all	OSV	all	ALL	50%	dzg04
+dzg_03	all	all	all	PRON	>90%	dzg02
+dzg_04	all	all	all	PRON	>90%	NotAvailable
+dzg_03	all	all	all	NOUN	50%	dzg03
+dzg_04	all	all	all	NOUN	50%	NotAvailable
+kor_03	all	all	all	TOPIC; FOCUS	>90%	kor05
+kor_04	all	all	all	TOPIC; FOCUS	>90%	NotAvailable
+kor_01	all	all	all	NONHUMAN&NONTOPIC&NONFOCUS; NOUN&NONTOPIC&NONFOCUS; 3P&NONTOPIC&NONFOCUS	>50%	NotAvailable
+kor_02	all	all	all	NONHUMAN&NONTOPIC&NONFOCUS; NOUN&NONTOPIC&NONFOCUS; 3P&NONTOPIC&NONFOCUS	>50%	kor04
+kor_01	all	all	all	HUMAN&NONTOPIC&NONFOCUS; 1P&NONTOPIC&NONFOCUS; 2P&NONTOPIC&NONFOCUS; PRON&NONTOPIC&NONFOCUS; PROPER&NONTOPIC&NONFOCUS	50%	NotAvailable
+kor_02	all	all	all	HUMAN&NONTOPIC&NONFOCUS; 1P&NONTOPIC&NONFOCUS; 2P&NONTOPIC&NONFOCUS; PRON&NONTOPIC&NONFOCUS; PROPER&NONTOPIC&NONFOCUS	50%	NotAvailable
+kor_01	all	all	all	3P; INANIMATE; NOUN; HEAVY	>	NotAvailable
+kor_02	all	all	all	3P; INANIMATE; NOUN; HEAVY	>	kor04
+kor_01	all	all	all	1P; 2P; ANIMATE; PRON; PROPER; LIGHT	<	kor03
+kor_02	all	all	all	1P; 2P; ANIMATE; PRON; PROPER; LIGHT	<	kor03
+yuk_01	all	all	all	HUMAN; ANTROPOMORPH	>90%	yuk01
+yuk_02	all	all	all	HUMAN; ANTROPOMORPH	>90%	NotAvailable
+yuk_01	all	all	all	ANIMAL&AFFECTED;ANIMAL&SPEC;ANIMAL&PROMINENT	50%	yuk02
+yuk_02	all	all	all	ANIMAL&AFFECTED;ANIMAL&SPEC;ANIMAL&PROMINENT	50%	NotAvailable
+yuk_01	all	all	all	INANIMATE; ANIMAL&NONAFFECTED; ANIMAL&NONSPEC; ANIMAL&NONPROMINENT	<10%	NotAvailable
+yuk_02	all	all	all	INANIMATE; ANIMAL&NONAFFECTED; ANIMAL&NONSPEC; ANIMAL&NONPROMINENT	<10%	NotAvailable
+khv_01	all	all	all	NOUN	>90%	khv01
+khv_01	all	all	all	PRON	<10%	khv02
+kxc_03	all	all	object cleft construction	NOUN	>90%	kxc04
+kxc_03	all	all	subject cleft construction	NOUN	<10%	kxc03
+kxc_02	all	all	object cleft construction	NOUN	<10%	kxc04
+kxc_02	all	all	subject cleft construction	NOUN	>90%	kxc03
+kxc_01	all	all	non-clefts	PROPER; PRON; DAYS_WEEK	>90%	kxc01
+kxc_01	all	all	non-clefts	NOUN	<10%	kxc02
+sci_01	all	all	all	INSTITUTION	>90%	sci03
+sci_01	all	all	all	NONINSTITUTION	<10%	sci04
+sci_02	all	all	all	TOPIC; DEF; SPEC; SG; ANIMATE	>	sci01
+sci_03	all	all	all	TOPIC; DEF; SPEC; SG; ANIMATE	>	NotAvailable
+sci_02	all	all	all	NONTOPIC; INDEF; NONPSEC; PL; INANIMATE	<	sci02
+sci_03	all	all	all	NONTOPIC; INDEF; NONPSEC; PL; INANIMATE	<	NotAvailable
+mem_01	all	all	all	ALL&SG	50%	NotAvailable
+mem_02	all	all	all	ALL&SG	50%	mem01
+mem_03	all	all	all	ALL&SG	50%	mem01
+mem_04	all	all	all	ALL&PL	50%	NotAvailable
+mem_05	all	all	all	ALL&PL	50%	NotAvailable
+gjr_01	NON-CONT; NON-FUT; NON-EPISTEMIC; NON-DEONTIC	OVS	all	ALL	>90%	gjr03
+gjr_02	NON-CONT; NON-FUT; NON-EPISTEMIC; NON-DEONTIC	OVS	all	ALL	>90%	NotAvailable
+gjr_01	NON-CONT; NON-FUT; NON-EPISTEMIC; NON-DEONTIC	not OVS	all	INANIMATE&NOUN; NOUN&DISLOCATION	>50%	NotAvailable
+gjr_02	NON-CONT; NON-FUT; NON-EPISTEMIC; NON-DEONTIC	not OVS	all	INANIMATE&NOUN; NOUN&DISLOCATION	>50%	gjr01
+gjr_01	CONT; FUT; EPISTEMIC; DEONTIC	all	all	ALL	<50%	gjr02
+gjr_02	CONT; FUT; EPISTEMIC; DEONTIC	all	all	ALL	<50%	gjr02
+cbv_01	all	SOV	all	HUMAN&NOUN; DEM; PRON; PROPER; KIN; ANTHROPOMORPH	>90%	cbv01
+cbv_01	all	SOV	all	DEF&NOUN	>50%	NotAvailable
+cbv_01	all	SOV	all	ANIMAL	50%	NotAvailable
+cbv_01	all	SOV	SUBJ&ANIMATE	INANIMATE&NOUN	50%	NotAvailable
+cbv_01	all	SOV	SUBJ&INANIMATE	INANIMATE&NOUN	>90%	cbv03
+cbv_01	all	not SOV	all	ALL	>90%	cbv02
+heb_01	all	all	all	DEF; PRON; PROPER	>90%	heb01
+heb_01	all	all	all	INDEF	<10%	heb02
+pes_01	all	all	all	PRON; PROPER; DEF; INDEF&SPEC	>90%	pes01
+pes_01	all	all	all	INDEF&NONSPEC&ANIMATE	>50%	pes02
+pes_01	all	all	all	INDEF&NONSPEC&INANIMATE	<50%	pes03
+esu_01	all	all	all	3P&SG	>90%	esu02
+esu_02	all	all	all	3P&PL	>90%	esu01
+esu_03	all	all	all	3P&DUAL	>90%	NotAvailable
+esu_06	all	all	all	1P; 2P	>90%	esu03
+esu_04	all	all	all	3P&PL	>90%	esu02
+esu_05	all	all	all	3P&DUAL	>90%	NotAvailable
+esu_04	all	all	all	3P&SG	<10%	esu01
+esu_05	all	all	all	3P&SG	<10%	esu01
+esu_07	all	all	all	1P; 2P	>90%	esu04
+dhi_01	all	all	all	HUMAN; ANTHROPOMORPH	>50%	dhi01
+dhi_02	all	all	all	HUMAN; ANTHROPOMORPH	>50%	dhi02
+dhi_01	all	all	all	INANIMATE	<50%	dhi03
+dhi_02	all	all	all	INANIMATE	<50%	NotAvailable
+dhi_01	all	all	all	DEF	>	dhi06
+dhi_01	all	all	all	INDEF	<	dhi07
+dhi_01	all	all	SUBJ&NONHUMAN	ANIMAL&NONANTHROPOMORPH	>	dhi04
+dhi_01	all	all	SUBJ&HUMAN	ANIMAL&NONANTHROPOMORPH	<	dhi05
+dhi_02	all	all	SUBJ&NONHUMAN	ANIMAL&NONANTHROPOMORPH	>	NotAvailable
+dhi_02	all	all	SUBJ&HUMAN	ANIMAL&NONANTHROPOMORPH	<	NotAvailable
+qiang_01	all	SOV	OBJ&HIGHER	LOWER	50%	qiang01
+qiang_01	all	SOV	OBJ&LOWER	HIGHER	<10%	qiang02
+qiang_01	all	OSV	NO_TYPICAL_SCENARIO	ALL	>90%	qiang03
+qiang_01	all	OSV	TYPICAL_SCENARIO	ALL	50%	qiang04
+qiang_02	all	all	SUBJ&UNMARKED	ANIMATE	50%	qiang05
+qiang_02	all	all	SUBJ&MARKED	ALL	<10%	qiang01
+qiang_02	all	all	SUBJ&UNMARKED	INANIMATE	<10%	NotAvailable
