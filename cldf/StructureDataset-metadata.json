@@ -1,0 +1,427 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:source": "sources.bib",
+    "dcat:accessURL": "https://github.com/cldf-datasets/levshinadifferentialmarking",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/cldf-datasets/levshinadifferentialmarking",
+            "dc:created": "5333fc4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.4-2-g6e5834a31c"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.8.5"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
+    "rdf:ID": "levshinadifferentialmarking",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
+    "dialect": {
+        "commentPrefix": null
+    },
+    "tables": [
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
+            "dc:extent": 677,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Language_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+                        "required": true,
+                        "name": "Parameter_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "null": [
+                            "?",
+                            ""
+                        ],
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
+                        "required": false,
+                        "name": "Value"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#codeReference",
+                        "required": false,
+                        "name": "Code_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "required": false,
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": false,
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Usages"
+                    },
+                    {
+                        "dc:description": "For values of the \"* Marker\" parameter: Type of marker (suffix, prefix, enclitic, proclitic, preposition or adposition)",
+                        "name": "Type"
+                    },
+                    {
+                        "dc:description": "For values of the \"* Marker\" parameter: Conditions when the marker can be used potentially (phonology, nominal number, etc.)",
+                        "name": "Condition"
+                    },
+                    {
+                        "dc:description": "For values of the \"* Marker\" parameter: Links to examples of usages of the marker",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
+                        "separator": ";",
+                        "name": "Examples"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Parameter_ID"
+                        ],
+                        "reference": {
+                            "resource": "parameters.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Examples"
+                        ],
+                        "reference": {
+                            "resource": "examples.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "values.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 27,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+                        "required": false,
+                        "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9]{4}[1-9][0-9]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "required": false,
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
+                        "required": false,
+                        "name": "ISO639P3code"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "languages.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
+            "dc:extent": 96,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Language_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#primaryText",
+                        "required": true,
+                        "name": "Primary_Text"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#analyzedWord",
+                        "required": false,
+                        "separator": "\\t",
+                        "name": "Analyzed_Word"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#gloss",
+                        "required": false,
+                        "separator": "\\t",
+                        "name": "Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#translatedText",
+                        "required": false,
+                        "name": "Translated_Text"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#metaLanguageReference",
+                        "required": false,
+                        "name": "Meta_Language_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "required": false,
+                        "name": "Comment"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Meta_Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "examples.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:extent": 24,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "dc:description": "A (role that expresses the prototypical Agent) or P (grammatical role that expresses the prototypical Patient)",
+                        "datatype": {
+                            "base": "string",
+                            "format": "A|P"
+                        },
+                        "name": "Argument"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "parameters.csv"
+        },
+        {
+            "dc:extent": 220,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Marker_ID"
+                    },
+                    {
+                        "dc:description": "IMPER = imperative; NONFIN = embedded non-finite clause; MAIN = main clause; SUB = subordinate clause; CON = conditional; FUT = future tense; CONT = continuative aspect; EPISTEMIC = epistemic modality; DEONTIC = deontic modality; SEQ = sequential clause",
+                        "separator": " ; ",
+                        "name": "TAM_Conditions"
+                    },
+                    {
+                        "dc:description": "SOV, SVO, etc.; LR_DISLOCATION = left/right dislocation;",
+                        "separator": " ; ",
+                        "name": "WordOrder_Conditions"
+                    },
+                    {
+                        "dc:description": "Other conditions that influence the (dis)use of markers, e.g. fast speech; SUBJ = grammatical subject; OBJ = grammatical object; TYPICAL_SCENARIO = a typical configuration of A, P and verb, e.g. a dog bites a man; NO_TYPICAL_SCENARIO =lack of a typical configuration; OTHER_HIGHER = the other argument is higher on the prominence scales; OTHER_LOWER = the other argument is lower on the prominence scales.  See other abbreviations in the column Host.",
+                        "separator": " ; ",
+                        "name": "Other_Conditions"
+                    },
+                    {
+                        "dc:description": "ALL = all nominals; PRON = pronoun; DEM = demonstrative; PROPER = proper noun; KIN = kinship term; HUMAN = human noun; SPEC = specific; ANIMAL = animal noun; NOUN = common noun; DEF = definite; INDEF = indefinite; 1P = 1st person; 2P = 2nd person; 3P = 3rd person; PROX = proximate (e.g. 3rd person); EMPH = emphatic; NONEMPH: non-emphatic; LIGHT_VERB = light verb as the head; FOCUS = focus; NONFOCUS = not focus; BABY  = baby; NONBABY = not baby; ADJACENT = adjacent to the verb; NONADJACENT = not adjacent to the verb; LIGHT = syntactically and/or morphologically 'light'; HEAVY = syntactically and/or morphologically 'heavy'; ANIMATE = animate; INANIMATE = inanimate; ANTHROPOMORPH = anthropomorphic (human-like, e.g. animals in a story or mythological beings); PROMINENT = prominent in the narrative; AFFECTED = affected by the action expressed by the verb; DAYS_WEEK = days of the week; INSTITUTION = institution;  POSS = possessive; REFL = reflexive; +REL = modified by relative clause; -REL = not modified by relative clause, PARTITIVE = partitive constructions (e.g. 'two of the girls'); PREDICTABLE_VERB = predictable from the verb",
+                        "separator": " ; ",
+                        "name": "Host"
+                    },
+                    {
+                        "dc:description": ">90% = always or nearly always marked; >50% = more frequently marked than unmarked; <50% = less frequently marked than unmarked; 50% = optionally marked, or no precise information about any biases; \">\" = more frequently marked than in other situations, \"<\" = less frequently marked than in other situations",
+                        "name": "Marking_Probability"
+                    },
+                    {
+                        "dc:description": "Links to examples of this usage of a marker",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
+                        "separator": ";",
+                        "name": "Examples"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Examples"
+                        ],
+                        "reference": {
+                            "resource": "examples.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "usages.csv"
+        }
+    ]
+}
