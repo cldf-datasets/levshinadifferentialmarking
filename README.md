@@ -1,4 +1,4 @@
-# Dataset levshinadifferentialmarking
+# Cross-linguistic differential and optional marking database
 
 ## How to cite
 
@@ -7,6 +7,8 @@ this dataset using the DOI of the [particular released version](releases/) you w
 
 ## Description
 
+
+This database contains information about differential and optional marking of A and P, including individual case markers and diverse conditions for their usage. It also shows whether a particular language fits or violates different referential scales, as far as the use of markers is concerned. Both global and local marking patterns are included.
 
 This dataset is licensed under a CC-BY-4.0 license
 

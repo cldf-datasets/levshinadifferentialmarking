@@ -1,7 +1,7 @@
 {
     "id": "levshinadifferentialmarking",
-    "title": null,
-    "description": null,
+    "title": "Cross-linguistic differential and optional marking database",
+    "description": "This database contains information about differential and optional marking of A and P, including individual case markers and diverse conditions for their usage. It also shows whether a particular language fits or violates different referential scales, as far as the use of markers is concerned. Both global and local marking patterns are included.",
     "license": "CC-BY-4.0",
     "url": null,
     "citation": null

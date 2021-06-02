@@ -1,17 +1,19 @@
 <a name="ds-structuredatasetmetadatajson"> </a>
 
-# StructureDataset StructureDataset
+# StructureDataset Cross-linguistic differential and optional marking database
 
 **CLDF Metadata**: [StructureDataset-metadata.json](./StructureDataset-metadata.json)
 
 **Sources**: [sources.bib](./sources.bib)
+
+This database contains information about differential and optional marking of A and P, including individual case markers and diverse conditions for their usage. It also shows whether a particular language fits or violates different referential scales, as far as the use of markers is concerned. Both global and local marking patterns are included.
 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF StructureDataset](http://cldf.clld.org/v1.0/terms.rdf#StructureDataset)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/cldf-datasets/levshinadifferentialmarking
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/levshinadifferentialmarking/tree/1fdeabf">cldf-datasets/levshinadifferentialmarking 1fdeabf</a></li><li><a href="https://github.com/glottolog/glottolog/tree/8da6d68a3c">Glottolog v4.4-3-g8da6d68a3c</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/levshinadifferentialmarking/tree/d437354">cldf-datasets/levshinadifferentialmarking d437354</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.4">Glottolog v4.4</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | levshinadifferentialmarking
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

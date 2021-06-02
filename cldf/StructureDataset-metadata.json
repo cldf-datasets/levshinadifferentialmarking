@@ -6,21 +6,23 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:description": "This database contains information about differential and optional marking of A and P, including individual case markers and diverse conditions for their usage. It also shows whether a particular language fits or violates different referential scales, as far as the use of markers is concerned. Both global and local marking patterns are included.",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
+    "dc:title": "Cross-linguistic differential and optional marking database",
     "dcat:accessURL": "https://github.com/cldf-datasets/levshinadifferentialmarking",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/levshinadifferentialmarking",
-            "dc:created": "1fdeabf"
+            "dc:created": "d437354"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.4-3-g8da6d68a3c"
+            "dc:created": "v4.4"
         }
     ],
     "prov:wasGeneratedBy": [
