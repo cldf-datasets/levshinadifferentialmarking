@@ -13,7 +13,7 @@ ude03	nada au teti-gi-e-nie joxoso-mo au-wa	seven cap dress-REP-PAST-3SG kettle-
 ude04	in'ei ikteme-ne:-ni pauza	dog bite-DIS-PAST-3SG roe	The dogs bit the roe.	DIS: disjunction	nikolaeva_grammar_2001	123
 ude05	we:-tigi ŋene-ze-fi seutigi diga-na-za-fi	forest-LAT go-SUBJ-1PL.IN nut eat-DEST-SUBJ-1PL.IN	Let us go to the forest and eat some nuts.	LAT: lative case; IN: inclusive; DEST: destinative case	nikolaeva_grammar_2001	121
 ude06	nua-ni (men-e) sita-i ise:-ni	he-3SG (ref-0) son-REF see.PAST-3SG	Heᵢ saw hisᵢ son.	REF: reflexive	nikolaeva_grammar_2001	775
-css01	sukmu-ka hemečʔa suku·m-e	is smoking I one cigarette-OBJ	I'm smoking a cigarette.	none	ocrand_mutsun_1977	150
+css01	sukmu-ka hemečʔa suku·m-e	is.smoking-I one cigarette-OBJ	I'm smoking a cigarette.	none	ocrand_mutsun_1977	150
 kor01	minsu-neun sagwa*(-leul) sa-ss-da	minsu-TOP apple-LEUL buy-PST-DEC	Minsu (, he) bought APPLES.	DEC: declarative	kwon_differential_2008	263
 kor02	(...) ilekhey nul sayngkak ha-ku iss-ta-ku	... such always thought do-LK exist	I always think so.	LK: linker	lee_quantitative_2009	43
 kor03	ipen hanki-nun sensayng-nim kwamok-ul ses kaluchi-si-e	this semester-TOP teacher course-ACC three teach	The teacher teaches three courses this semester.	none	lee_quantitative_2009	49
