@@ -13,9 +13,9 @@ ude03	nada au teti-gi-e-nie joxoso-mo au-wa	seven cap dress-REP-PAST-3SG kettle-
 ude04	in'ei ikteme-ne:-ni pauza	dog bite-DIS-PAST-3SG roe	The dogs bit the roe.	DIS: disjunction	nikolaeva_grammar_2001	123
 ude05	we:-tigi ŋene-ze-fi seutigi diga-na-za-fi	forest-LAT go-SUBJ-1PL.IN nut eat-DEST-SUBJ-1PL.IN	Let us go to the forest and eat some nuts.	LAT: lative case; IN: inclusive; DEST: destinative case	nikolaeva_grammar_2001	121
 ude06	nua-ni (men-e) sita-i ise:-ni	he-3SG (ref-0) son-REF see.PAST-3SG	Heᵢ saw hisᵢ son.	REF: reflexive	nikolaeva_grammar_2001	775
-css01	sukmu-ka hemečʔa suku·me	is smoking I one cigarette [objective]	I'm smoking a cigarette.	none	ocrand_mutsun_1977	150
+css01	sukmu-ka hemečʔa suku·m-e	is smoking I one cigarette-OBJ	I'm smoking a cigarette.	none	ocrand_mutsun_1977	150
 kor01	minsu-neun sagwa*(-leul) sa-ss-da	minsu-TOP apple-LEUL buy-PST-DEC	Minsu (, he) bought APPLES.	DEC: declarative	kwon_differential_2008	263
-kor02	(...) ilekhey nul sayngkak ha-ku iss-ta-ku	such always thought do-LK exist	I always think so.	LK: linker	lee_quantitative_2009	43
+kor02	(...) ilekhey nul sayngkak ha-ku iss-ta-ku	... such always thought do-LK exist	I always think so.	LK: linker	lee_quantitative_2009	43
 kor03	ipen hanki-nun sensayng-nim kwamok-ul ses kaluchi-si-e	this semester-TOP teacher course-ACC three teach	The teacher teaches three courses this semester.	none	lee_quantitative_2009	49
 kor04	kun kenmwul-i cenlyek tel sse-ya hay	big building-NOM energy less consume must	Big building should consume less energy. 	none	lee_quantitative_2009	49
 kor05	minsu-neun sagwa(-leul) meog-goiss-da	minsu-TOP apple(-LEUL) eat-PROG-DEC	Minsu is eating apples.	DEC: declarative	kwon_differential_2008	259
@@ -35,9 +35,9 @@ rap10	ka haŋa ki ta'a kenu ko Papu'e	IMP love to POSS.2SG.A husband PROM Papu'e
 rap11	o te rūhia ia te hoho'a nei i to'o	of ART tourist then ART image PROX PFV take	(It was) the tourists (who) took this photo.	none	kieviet_grammar_2017	391
 rap12	paurō te pō ka pere era he rova'a te tara	every ART night CNTG play DIST NTR obtain ART money	Every night, when he played, he obtained/won money.	CNTG: contiguous; NTR: neutral aspect	kieviet_grammar_2017	393
 rap13	he rava'a e rāua i te vārua era o tū repa era	NTR obtain AG 3PL ACC ART spirit DIST of ART young_man DIST	They obtained the spirit of that young man.	NTR: neutral aspect; AG: agentive	kieviet_grammar_2017	386
-ybh01	na, jaba, na mamu=ŋa luŋkhwak pok-ma n-yas-u-n, ...	this when this girl=ERG stone raise-INF NEG-be_able-3.P[PST]-NEG	This one, when this girl could not raise the stone, ...	none	schackow_grammar_2015	130
+ybh01	na, jaba, na mamu=ŋa luŋkhwak pok-ma n-yas-u-n, ...	this when this girl=ERG stone raise-INF NEG-be_able-3.P[PST]-NEG ...	This one, when this girl could not raise the stone, ...	none	schackow_grammar_2015	130
 ikx01	toɓuo ƙaƙaam-a kʉláɓákᵃ	spear:SEQ hunter-NOM bushbuck:ACC	And the hunter speared the bushbuck.	SEQ: sequential	schrock_ik_2017	527
-ikx02	noo ŋgó-á bɛ́ɗímɛɛ bi-a, ....	when we-ACC want:1PL.EXC you-ACC	When we were looking for you, ...	none	schrock_ik_2017	528
+ikx02	noo ŋgó-á bɛ́ɗímɛɛ bi-a, ....	when we-ACC want:1PL.EXC you-ACC ...	When we were looking for you, ...	none	schrock_ik_2017	528
 ikx03	Ŋƙíá tɔbɔŋ-a=na	eat:1SG mush-NOM=this	I eat this meal mush.	none	schrock_ik_2017	527
 ikx04	Ŋƙa tɔbɔŋɔ́-á=na	eat:3SG mush-ACC=this	She eats this meal mush.	none	schrock_ik_2017	527
 agr01	hutii a-ina-u-ti daka-sa-tata-hamɨ-i ami-na	1PL COP-PL:IMPFV-REL-SAP wait.for-ATT-FUT-1SG>2SG.OBJ-DECL 2SG-ACC	We will wait for you.	IMPFV: imperfective; REL: relativizer; SAP: speech act participant; ATT: attenuative Aktionsart; DECL: declarative	overall_grammar_2007	444
@@ -75,7 +75,7 @@ cbv01	wěm=ka kǎn=diʔ wã=mâw-bip nih=na=wɨt=hĩ	1SG=ASS 3SG.M=OBJ 1SG=
 cbv02	jegêʔ=diʔ fǐt fĩ=waj=na	clothes=OBJ 1PL 1PL=pull=DECL	We sewed clothes.	none	bolanos_grammar_2016	306
 cbv03	mâ-naʔ mɨ=diʔ ʔã=t-dah-mâw=na=ka 	tree-CL:tree.like house=OBJ 3SG.M=EVID-break-hit/kill=DECL=ASS	The tree will probably break the house (if it falls onto it).	ASS: assertion; CL: classifier; EVID: evidential	bolanos_grammar_2016	203
 heb01	ha-seret her'a 'et-ha-milxama	the-movie showed ACC-the-war	The movie showed the war.	none	aissen_differential_2003	453
-heb02	ha-seret her'a milxama	the movie showed war	The movie showed a war.	none	aissen_differential_2003	453
+heb02	ha-seret her'a milxama	the-movie showed war	The movie showed a war.	none	aissen_differential_2003	453
 pes01	yeki az ân ketâbhâ-râ xândam	INDEF of DEM books-ACC I.read	I read one of these books.	none	aissen_differential_2003	468
 pes02	çah-e tork nazd-e emperâtur-e rum qâsed-i-râ ferestâd tâ bâ u hamdast çavad	king-EZ Turk before-EZ emperor-EZ Rome messenger-INDEF-ACC he.sent so with him ally he.became	The king of the Turks sent a messenger to the Roman emperor in order to ally with him.	EZ: ezafe (clitic that occurs between a nominal head and post-head modifiers)	aissen_differential_2003	469
 pes03	çah-e tork nazd-e emperâtur-e rum payâm-i ferestâd tâ bâ u hamdast çavad	king-EZ Turk before-EZ emperor-EZ Rome message-INDEF he.sent so with him ally he.became	The king of the Turks sent a message to the Roman emperor in order to ally with him.	EZ: ezafe (clitic that occurs between a nominal head and post-head modifiers)	aissen_differential_2003	469
