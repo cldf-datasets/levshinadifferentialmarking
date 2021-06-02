@@ -145,6 +145,7 @@ class Dataset(BaseDataset):
             for (sheet, col), desc in legend.items():
                 if col.endswith('Scale'):
                     desc += '\n\n' + notes
+                    CODES[col] = dict(fit=None, viol=None, none=None)
                 if sheet == 'Languages' and (col not in ['Language', 'Argument']):
                     args.writer.objects['ParameterTable'].append(dict(
                         ID='{}_{}'.format(arg, col),

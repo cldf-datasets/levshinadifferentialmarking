@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/levshinadifferentialmarking",
-            "dc:created": "d437354"
+            "dc:created": "07a260a"
         },
         {
             "rdf:type": "prov:Entity",
@@ -375,7 +375,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 34,
+            "dc:extent": 58,
             "tableSchema": {
                 "columns": [
                     {
