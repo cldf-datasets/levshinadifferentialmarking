@@ -1,0 +1,35 @@
+ID,Parameter_ID,Name,Description
+A_Marking_Type-none,A_Marking_Type,none,
+A_Marking_Type-differential,A_Marking_Type,differential,
+A_Marking_Type-stableovert,A_Marking_Type,stable overt,
+A_Local_or_Global-local,A_Local_or_Global,local,the use or omission of the marker depends only on the properties of the argument itself
+A_Local_or_Global-global,A_Local_or_Global,global,the use of the marker also or solely depends on the properties of the other argument.
+A_Marking_Contrast-zerononzero,A_Marking_Contrast,zero_nonzero,"when differential marking in a given language is privative, i.e. there is zero expression vs. non-zero (audible) expression"
+A_Marking_Contrast-markerlength,A_Marking_Contrast,marker_length,when the differential marking pertains to different markers rather than zero expression vs. non-zero expression
+A_Marking_Contrast-stemlength,A_Marking_Contrast,stem_length,when the case forms differ in stem length (e.g. as in Ik)
+A_Split_or_Fluid-split,A_Split_or_Fluid,split,when Marking_Probability is >90%/<10%
+A_Split_or_Fluid-fluid,A_Split_or_Fluid,fluid,"when Marking_Probability is >50%, 50%, <50%, <, or >"
+A_Split_or_Fluid-splitfluid,A_Split_or_Fluid,split-fluid,when both split and fluid marking occurs in a given language
+A_TAM_DM-yes,A_TAM_DM,yes,
+A_TAM_DM-no,A_TAM_DM,no,
+A_WO_DM-yes,A_WO_DM,yes,
+A_WO_DM-no,A_WO_DM,no,
+A_Other_DM-yes,A_Other_DM,yes,
+A_Other_DM-no,A_Other_DM,no,
+P_Marking_Type-none,P_Marking_Type,none,
+P_Marking_Type-differential,P_Marking_Type,differential,
+P_Marking_Type-stableovert,P_Marking_Type,stable overt,
+P_Local_or_Global-local,P_Local_or_Global,local,the use or omission of the marker depends only on the properties of the argument itself
+P_Local_or_Global-global,P_Local_or_Global,global,the use of the marker also or solely depends on the properties of the other argument.
+P_Marking_Contrast-zerononzero,P_Marking_Contrast,zero_nonzero,"when differential marking in a given language is privative, i.e. there is zero expression vs. non-zero (audible) expression"
+P_Marking_Contrast-markerlength,P_Marking_Contrast,marker_length,when the differential marking pertains to different markers rather than zero expression vs. non-zero expression
+P_Marking_Contrast-stemlength,P_Marking_Contrast,stem_length,when the case forms differ in stem length (e.g. as in Ik)
+P_Split_or_Fluid-split,P_Split_or_Fluid,split,when Marking_Probability is >90%/<10%
+P_Split_or_Fluid-fluid,P_Split_or_Fluid,fluid,"when Marking_Probability is >50%, 50%, <50%, <, or >"
+P_Split_or_Fluid-splitfluid,P_Split_or_Fluid,split-fluid,when both split and fluid marking occurs in a given language
+P_TAM_DM-yes,P_TAM_DM,yes,
+P_TAM_DM-no,P_TAM_DM,no,
+P_WO_DM-yes,P_WO_DM,yes,
+P_WO_DM-no,P_WO_DM,no,
+P_Other_DM-yes,P_Other_DM,yes,
+P_Other_DM-no,P_Other_DM,no,

@@ -1,0 +1,26 @@
+{
+    "creators": [
+        {
+            "name": "Natalia Levshina"
+        },
+        {
+            "name": "No\u00eblle Sommer"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "DataCurator"
+        }
+    ],
+    "title": null,
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
