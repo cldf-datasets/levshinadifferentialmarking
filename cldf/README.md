@@ -11,7 +11,7 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF StructureDataset](http://cldf.clld.org/v1.0/terms.rdf#StructureDataset)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/cldf-datasets/levshinadifferentialmarking
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/levshinadifferentialmarking/tree/3d40b3b">cldf-datasets/levshinadifferentialmarking 3d40b3b</a></li><li><a href="https://github.com/glottolog/glottolog/tree/8da6d68a3c">Glottolog v4.4-3-g8da6d68a3c</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/levshinadifferentialmarking/tree/1fdeabf">cldf-datasets/levshinadifferentialmarking 1fdeabf</a></li><li><a href="https://github.com/glottolog/glottolog/tree/8da6d68a3c">Glottolog v4.4-3-g8da6d68a3c</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | levshinadifferentialmarking
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -119,6 +119,8 @@ Name/Property | Datatype | Description
 
 ## <a name="table-usagescsv"></a>Table [usages.csv](./usages.csv)
 
+Usage restrictions for markers
+
 property | value
  --- | ---
 [dc:extent](http://purl.org/dc/terms/extent) | 220
@@ -129,7 +131,7 @@ property | value
 Name/Property | Datatype | Description
  --- | --- | --- 
 `ID` | `string` | Primary key
-`Marker_ID` | `string` | 
+`Marker_ID` | `string` | References [values.csv::ID](#table-valuescsv)
 `TAM_Conditions` | list of `string` (separated by ` ; `) | IMPER = imperative; NONFIN = embedded non-finite clause; MAIN = main clause; SUB = subordinate clause; CON = conditional; FUT = future tense; CONT = continuative aspect; EPISTEMIC = epistemic modality; DEONTIC = deontic modality; SEQ = sequential clause
 `WordOrder_Conditions` | list of `string` (separated by ` ; `) | SOV, SVO, etc.; LR_DISLOCATION = left/right dislocation;
 `Other_Conditions` | list of `string` (separated by ` ; `) | Other conditions that influence the (dis)use of markers, e.g. fast speech; SUBJ = grammatical subject; OBJ = grammatical object; TYPICAL_SCENARIO = a typical configuration of A, P and verb, e.g. a dog bites a man; NO_TYPICAL_SCENARIO =lack of a typical configuration; OTHER_HIGHER = the other argument is higher on the prominence scales; OTHER_LOWER = the other argument is lower on the prominence scales.  See other abbreviations in the column Host.

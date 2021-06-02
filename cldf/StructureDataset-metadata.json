@@ -14,7 +14,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/levshinadifferentialmarking",
-            "dc:created": "3d40b3b"
+            "dc:created": "1fdeabf"
         },
         {
             "rdf:type": "prov:Entity",
@@ -424,6 +424,7 @@
             "url": "codes.csv"
         },
         {
+            "dc:description": "Usage restrictions for markers",
             "dc:extent": 220,
             "tableSchema": {
                 "columns": [
@@ -473,6 +474,17 @@
                         ],
                         "reference": {
                             "resource": "examples.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Marker_ID"
+                        ],
+                        "reference": {
+                            "resource": "values.csv",
                             "columnReference": [
                                 "ID"
                             ]

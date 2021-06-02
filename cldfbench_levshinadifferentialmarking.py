@@ -95,7 +95,7 @@ class Dataset(BaseDataset):
         t = cldf.add_table(
             'usages.csv',
             'ID',
-            'Marker_ID',  # fk
+            'Marker_ID',
             {
                 'name': 'TAM_Conditions',
                 'separator': ' ; ',
@@ -128,6 +128,8 @@ class Dataset(BaseDataset):
             },
         )
         t.tableSchema.primaryKey = ['ID']
+        cldf.add_foreign_key('usages.csv', 'Marker_ID', 'ValueTable', 'ID')
+        t.common_props['dc:description'] = "Usage restrictions for markers"
         # t = cldf.add_table(
         #    'conditions.csv',
         #    'ID',
