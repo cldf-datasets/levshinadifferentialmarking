@@ -2,7 +2,7 @@
 
 Name | GitHub user | Role
 --- | --- | ---
-Natalia Levshina | @levshina | Author
 Noëlle Sommer | @mjnsommer | Author
+Natalia Levshina | @levshina | Author
 Robert Forkel | @xrotwang | DataCurator
 
