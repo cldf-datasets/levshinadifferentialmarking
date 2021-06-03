@@ -1,28 +1,28 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
-bsk,Burushaski (Eastern),,,,,
-tci,Komnzo,,,,,
-dzg,Tubu/Dazaga,,,,,
-jup,Hup,,,,,
-opm,Oksapmin,,,,,
-sci,Sri Lanka Malay,,,,,
-rap,Rapa Nui,,,,,
-kor,Korean,,,,,
-qub,Quechua (Huallaga),,,,,
-ude,Udihe,,,,,
-css,Mutsun,,,,,
-agr,Aguaruna,,,,,
-khv,Khwarshi,,,,,
-gjr,Gurindji Kriol,,,,,
-yuk,Yuki,,,,,
-ikx,Ik,,,,,
-rmt,Domari,,,,,
-pes,Persian,,,,,
-cbv,Kakua,,,,,
-cng,Qiang,,,,,
-ybh,Yakkha,,,,,
-dhi,Dhimal,,,,,
-she,Sheko,,,,,
-esu,Yup'ik,,,,,
-heb,Hebrew,,,,,
-kxc,Konso,,,,,
-mem,Mangarla,,,,,
+bsk,Burushaski (Eastern),Eurasia,36.2161,74.8236,buru1296,bsk
+tci,Komnzo,Papunesia,-8.64917,141.52,wara1294,tci
+dzg,Tubu/Dazaga,Africa,15.7358,15.8517,daza1242,dzg
+jup,Hup,South America,0.58622,-69.8359,hupd1244,jup
+opm,Oksapmin,Papunesia,-5.20797,142.177,oksa1245,opm
+sci,Sri Lanka Malay,Eurasia,6.91603,79.864,sril1245,sci
+rap,Rapa Nui,Papunesia,-27.113,-109.342,rapa1244,rap
+kor,Korean,Eurasia,37.5,128.0,kore1280,kor
+qub,Quechua (Huallaga),South America,-9.57135,-75.594,hual1241,qub
+ude,Udihe,Eurasia,46.6309,135.678,udih1248,ude
+css,Mutsun,North America,36.787073,-121.487098,sout2986,css
+agr,Aguaruna,South America,-5.30044,-77.9218,agua1253,agr
+khv,Khwarshi,Eurasia,42.2743,45.9977,khva1239,khv
+gjr,Gurindji Kriol,Australia,-17.4484,130.833,guri1249,gjr
+yuk,Yuki,North America,39.8389,-123.296,yuki1243,yuk
+ikx,Ik,Africa,3.61407,34.2507,ikkk1242,ikx
+rmt,Domari,Eurasia,32.0,35.0,doma1258,rmt
+pes,Persian,Eurasia,32.9,53.3,west2369,pes
+cbv,Kakua,South America,0.88778,-69.5659,cacu1241,cbv
+cng,Qiang,Eurasia,32.2766,103.192,nort2722,cng
+ybh,Yakkha,Eurasia,27.3714,87.9306,yakk1236,ybh
+dhi,Dhimal,Eurasia,26.6283,88.3798,dhim1246,dhi
+she,Sheko,Africa,7.05022,35.2826,shek1245,she
+esu,Yup'ik,North America,60.3062,-161.486,cent2127,esu
+heb,Hebrew,Eurasia,31.1056,35.0179,hebr1245,heb
+kxc,Konso,Africa,5.39111,37.53,kons1243,kxc
+mem,Mangarla,Australia,-18.6597,123.769,mang1383,mem

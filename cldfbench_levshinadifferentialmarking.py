@@ -174,6 +174,11 @@ class Dataset(BaseDataset):
                 args.writer.objects['LanguageTable'].append(dict(
                     ID=glang.iso,
                     Name=lang_map[glang.iso],
+                    Glottocode=glang.id,
+                    Latitude=glang.latitude,
+                    Longitude=glang.longitude,
+                    Macroarea=glang.macroareas[0].name,
+                    ISO639P3code=glang.iso,
                 ))
         lang_map = {v: k for k, v in lang_map.items()}
         for lang in self._read('Languages'):
