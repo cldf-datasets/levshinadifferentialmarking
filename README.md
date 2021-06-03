@@ -1,5 +1,7 @@
 # Cross-linguistic differential and optional marking database
 
+[![CLDF validation](https://github.com/cldf-datasets/levshinadifferentialmarking/workflows/CLDF-validation/badge.svg)](https://github.com/cldf-datasets/levshinadifferentialmarking/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
